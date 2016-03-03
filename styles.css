@@ -1,0 +1,26 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	font-family: 'Calibri'
+}
+#wrapper{
+	width: 900px;
+	height: 1200px;
+	margin:0px auto;
+	background-color: grey;
+	border: 1px solid black;
+	padding: 150px 350px 350px 350px;
+}
+
+	#wrapper h1 {
+		font-size: 644px;
+		color: green;
+	}
+
+	#wrapper p{
+		font-size: 24px;
+	}
+
+	#wrapper span{
+		font-style: italic;
+	}
